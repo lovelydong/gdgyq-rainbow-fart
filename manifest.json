@@ -1,0 +1,12 @@
+{
+    "name": "built-in-voice-gdg",
+    "display-name": "Built-in-voice-gdg (Chinese)",
+    "avatar": "avatar.jpg",
+    "avatar-dark":"avatar-dark.jpg",
+    "version": "1.0.1",
+    "description": "郭德纲于谦相声语音包",
+    "languages": ["javascript"],
+    "author": "lovelydong",
+    "gender": "female",
+    "locale": "zh"
+}

@@ -1,0 +1,168 @@
+{
+    "contributes": [
+        {
+            "keywords": [
+                "switch"
+            ],
+            "voices": [
+                "switch.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "error"
+            ],
+            "voices": [
+                "error01.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "var",
+                "let",
+                "const"
+            ],
+            "voices": [
+                "let01.mp3",
+                "let02.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "if",
+                "else"
+            ],
+            "voices": [
+                "if01.mp3",
+                "if02.mp3",
+                "if03.mp3",
+                "if04.mp3",
+                "if05.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "function",
+                "=>"
+            ],
+            "voices": [
+                "function01.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "for",
+                "map",
+                "while"
+            ],
+            "voices": [
+                "for01.mp3",
+                "for02.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "this"
+            ],
+            "voices": [
+                "this01.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "true",
+                "false"
+            ],
+            "voices": [
+                "true.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "new"
+            ],
+            "voices": [
+                "new01.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "import"
+            ],
+            "voices": [
+                "import01.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "export"
+            ],
+            "voices": [
+                "export.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "extends"
+            ],
+            "voices": [
+                "extends01.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "with"
+            ],
+            "voices": [
+                "with.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "try"
+            ],
+            "voices": [
+                "try01.mp3",
+                "try02.mp3",
+                "try03.mp3",
+                "try04.mp3",
+                "try05.mp3",
+                "try06.mp3",
+                "try07.mp3",
+                "try08.mp3",
+                "try09.mp3",
+                "try10.mp3",
+                "try11.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "return"
+            ],
+            "voices": [
+                "return.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "console",
+                "alert",
+                "debugger"
+            ],
+            "voices": [
+                "error01.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "pm",
+                "PM",
+                "产品狗",
+                "产品经理"
+            ],
+            "voices": [
+                "pm.mp3"
+            ]
+        }
+    ]
+}
